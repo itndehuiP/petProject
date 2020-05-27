@@ -4,10 +4,50 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>PetDiary.xcscheme_^#shared#^_</key>
+		<key>MacPetMemory.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>PetDiary.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>WatchPetDiary (Notification).xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>WatchPetDiary.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>844C9BB62471047600661404</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>844C9BCC2471047900661404</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>844C9BD72471047900661404</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>846B99F6247DA3440087405C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

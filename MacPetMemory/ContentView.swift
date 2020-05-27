@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  PetDiary
+//  MacPetMemory
 //
-//  Created by Ines Pacheco on 17/05/20.
+//  Created by Ines Pacheco on 26/05/20.
 //  Copyright © 2020 Ines Pacheco. All rights reserved.
 //
 
@@ -10,12 +10,13 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
+        MemoryList().environmentObject(PetData())
     }
 }
 
+
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        MemoryList().environmentObject(PetData())
     }
 }
